@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: johannneumann72/productservice:latest
+          tags: aimustafina/productservice:latest
